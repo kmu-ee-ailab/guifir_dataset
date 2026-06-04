@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+conda/
+
+# Model / experiment outputs
+checkpoints/
+outputs/
+runs/
+logs/
+wandb/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+
+# Dataset outputs and large local data
+data/
+datasets/
+raw_video/
+raw_videos/
+videos/
+frames/
+annotations/
+guifir_vid/
+worktable/
+
+# Archives
+*.tar
+*.tar.gz
+*.zip
+
+# Media / extracted files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.png
+*.jpg
+*.jpeg
+
+# OS
+.DS_Store
+
+# Local planning notes
+plan.md
+plan*.md
