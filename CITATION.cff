@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use the GuiFiR dataset or code, please cite the paper below."
+title: "GuiFiR Dataset"
+repository-code: "https://github.com/kmu-ee-ailab/guifir_dataset"
+license: MIT
+keywords:
+  - guitar
+  - hand pose estimation
+  - guitar finger reading
+  - fretboard
+  - tablature
+  - weakly supervised learning
+  - dataset
+authors:
+  - family-names: An
+    given-names: Subin
+    email: nesquiq@kookmin.ac.kr
+  - family-names: Chung
+    given-names: Seungeun
+  - family-names: Park
+    given-names: Minyoung
+  - family-names: Lee
+    given-names: Soochahn
+preferred-citation:
+  type: article
+  title: "GuiFiR: Weakly-Supervised Learning of Hand Pose Estimation for Guitar Finger Reading"
+  authors:
+    - family-names: An
+      given-names: Subin
+    - family-names: Chung
+      given-names: Seungeun
+    - family-names: Park
+      given-names: Minyoung
+    - family-names: Lee
+      given-names: Soochahn
+  journal: "IEEE Access"
+  volume: 14
+  start: 113417
+  end: 113427
+  year: 2026
+  publisher:
+    name: IEEE
+  doi: "10.1109/ACCESS.2026.3713562"
+  url: "https://ieeexplore.ieee.org/document/11611142"

@@ -25,5 +25,5 @@ The source videos referenced by GuiFiR may be owned by third parties. Users are
 responsible for complying with the terms of the relevant platforms, copyright
 holders, and institutions.
 
-If you use GuiFiR in academic work, cite the GuiFiR paper. The official BibTeX
-entry will be updated after publication.
+If you use GuiFiR in academic work, cite the GuiFiR paper (IEEE Access, 2026,
+doi:10.1109/ACCESS.2026.3713562). See README.md for the BibTeX entry.
